@@ -1,0 +1,1 @@
+add_eeros_sources(MessagePassing.cpp Server.cpp Client.cpp)
